@@ -39,18 +39,14 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 ```bash
 noelia@github:~$ sudo check-currently
 
-[📚 LEARNING]
-> Ampliando bases de Python 🐍
-> Profundizando en C# durante prácticas 🚀
+[APRENDIENDO]
+> Ampliando bases de Python 
+> Profundizando en C# durante prácticas 
 
-[🤝 OPEN_TO]
+[COLABORACIONES]
 > Colaborar en apps Full-Stack.
 > Proyectos Open Source (Java/C#).
 
-[💬 ASK_ME]
-> Maquetación Web (HTML/CSS).
-> Diseño de Bases de Datos Relacionales.
-> Lógica de Programación.
 ---
 
 ### Conectemos
