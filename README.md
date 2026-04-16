@@ -52,6 +52,4 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con un enfoque dual: disf
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=120&section=footer&text=Código%20con%20Pasión%20⚡&fontSize=25&fontColor=fff&animation=twinkle" alt="Footer Animado Gradiente" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFCCCC,FF0000,2D0B0B&height=120&section=footer&text=Programando%20con%20corazón%20y%20lógica%20✨&fontSize=25&animation=twinkle&fontColor=fff)
