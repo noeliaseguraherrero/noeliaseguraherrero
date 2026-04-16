@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=220&section=header&text=Noelia%20Segura%20Herrero&fontSize=45&fontColor=fff&animation=typewriter&desc=Desarrolladora%20Full-Stack%20en%20Formación&descSize=20&descAlign=center&descAlignY=70" alt="Noelia Segura Header Animado" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,20,30&height=200&section=header&text=Noelia%20Segura&fontSize=60&animation=fadeIn&fontAlignY=45)
 
 <div align="center">
 
