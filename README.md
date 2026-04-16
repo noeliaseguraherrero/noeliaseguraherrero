@@ -12,16 +12,26 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full-Stack Developer en for
 
 ### 💻 Tech Stack
 
-<div align="center">
+![Frontend](https://img.shields.io/badge/Frontend%3A%20JavaScript%2C%20HTML5%2C%20CSS3%2C%20Bootstrap.-333?style=for-the-badge&logo=frontend) 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark" width="180px" />
+</p>
 
-| **Frontend** | **Backend** | **Data & Tools** |
-| :---: | :---: | :---: |
-| ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
-| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) | ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) | ![VS](https://img.shields.io/badge/-VS-5C2D91?logo=visual-studio&logoColor=white) |
+![Backend](https://img.shields.io/badge/Backend%3A%20Java%20(Spring%20Boot)%2C%20Python%2C%20C%23.-333?style=for-the-badge&logo=backend)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,cs&theme=dark" width="180px" />
+</p>
 
-</div>
+![Databases](https://img.shields.io/badge/Bases%20de%20Datos%3A%20MySQL%2C%20ObjectDB.-333?style=for-the-badge&logo=mysql)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45px" />
+</p>
+
+![Tools](https://img.shields.io/badge/Herramientas%20y%20Entornos%3A%20GitHub%2C%20Linux%2C%20Visual%20Studio%2C%20APIs%20REST.-333?style=for-the-badge&logo=git)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,linux,visualstudio,postman&theme=dark" width="180px" />
+</p>
+
 ---
 
 ### GitHub Stats
