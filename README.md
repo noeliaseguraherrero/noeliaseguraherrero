@@ -1,55 +1,47 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2D0B0B,FF0000,FFCCCC&height=220&section=header&text=Noelia%20Segura%20Herrero&fontSize=50&animation=scaleIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2D0B0B,FF0000,FFCCCC&height=220&section=header&text=Noelia%20Segura%20Herrero&fontSize=50&fontColor=fff&animation=scaleIn&fontAlignY=40)
+
 <div align="center">
 
-### **¡Hola! 👋 Soy Noelia, apasionada por la tecnología en Valdemoro, Madrid**
+### Desarrolladora Web | Valdemoro, Madrid
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-DAW-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Estudiante DAW">
-  <img src="https://img.shields.io/badge/En%20Prácticas-C%23%20%26%20Python-green?style=for-the-badge&logo=google-colab&logoColor=white" alt="Prácticas">
-</p>
-
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con un enfoque dual: disfruto tanto la lógica robusta del backend como la creación de interfaces de usuario detalladas y *responsive*. Mi objetivo es crecer como una desarrolladora **Full-Stack** versátil. Actualmente ampliando mis conocimientos en **C#** y **Python**.
+Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full-Stack Developer en formación | Actualmente ampliando conocimientos en C# y Python. Motivada por crear soluciones eficientes y aprender nuevas tecnologías.
 
 </div>
 
 ---
 
-## 🛠️ Mi Caja de Herramientas Tecnológicas
+### 💻 Tech Stack
+
+![Frontend: JavaScript, HTML5, CSS3, Bootstrap.](https://img.shields.io/badge/Frontend%3A%20JavaScript%2C%20HTML5%2C%20CSS3%2C%20Bootstrap.-333?style=for-the-badge&logo=frontend:javascript,html5,css3,bootstrapdot&logoColor=white) ![Backend: Java (Spring Boot), Python, C#.](https://img.shields.io/badge/Backend%3A%20Java%20(Spring%20Boot)%2C%20Python%2C%20C%23.-333?style=for-the-badge&logo=backend:java(springboot),python,csharpdot&logoColor=white) ![Bases de Datos: MySQL, ObjectDB.](https://img.shields.io/badge/Bases%20de%20Datos%3A%20MySQL%2C%20ObjectDB.-333?style=for-the-badge&logo=basesdedatos:mysql,objectdbdot&logoColor=white) ![Herramientas y Entornos: GitHub, Linux, Visual Studio, APIs REST.](https://img.shields.io/badge/Herramientas%20y%20Entornos%3A%20GitHub%2C%20Linux%2C%20Visual%20Studio%2C%20APIs%20REST.-333?style=for-the-badge&logo=herramientasyentornos:github,linux,visualstudio,apisrestdot&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
-| **Datos y Herramientas** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noeliaseguraherrero&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
 ---
 
-## 📊 Actividad y Estadísticas
+### 🌱 Currently
+
+- 📚 Learning: **Ampliando mis bases de Python y profundizando en el desarrollo con C# durante mi periodo de prácticas.**
+- 🤝 Open to collaborate on: **Desarrollo de aplicaciones Full-Stack y proyectos de código abierto que utilicen Java o C#.**
+- 💬 Ask me about: **Maquetación web (HTML/CSS), diseño de bases de datos relacionales y lógica de programación.**
+
+---
+
+### 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeliaseguraherrero&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages">
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noeliaseguraherrero&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak">
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noeliaseguraherrero@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noelia-segura) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noeliaseguraherrero)
 
 </div>
 
 ---
 
-## 📫 Conectemos y Colaboremos
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noelia-segura)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noeliaseguraherrero@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noeliaseguraherrero)
-
-</div>
-
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFCCCC,FF0000,2D0B0B&height=120&section=footer&text=Programando%20con%20corazón%20y%20lógica%20✨&fontSize=25&animation=twinkle&fontColor=fff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFCCCC,FF0000,2D0B0B&height=100&section=footer)
