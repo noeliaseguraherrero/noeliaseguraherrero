@@ -1,6 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,12,19&height=250&section=header&text=Noelia%20Segura&fontSize=70&fontAlignY=40&animation=scaleIn)
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=63F763&center=true&vCenter=true&width=600&lines=System.out.println(%22Hola+Mundo%22);Console.WriteLine(%22Noelia+Segura%22);print(%22Full+Stack+Dev%22)" alt="Typing SVG" />
+</p>
 <div align="center">
 
 ### **¡Hola! 👋 Soy Noelia, apasionada por la tecnología en Valdemoro, Madrid**
