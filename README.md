@@ -35,7 +35,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 
 ---
 
-### 🌱 System Status
+### En qué estoy trabajando...
 ```bash
 noelia@github:~$ sudo check-currently
 
@@ -46,6 +46,7 @@ noelia@github:~$ sudo check-currently
 [COLABORACIONES]
 > Colaborar en apps Full-Stack.
 > Proyectos Open Source (Java/C#).
+```
 
 ---
 
