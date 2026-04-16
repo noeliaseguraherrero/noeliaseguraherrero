@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,15,22,30&height=230&section=header&text=Noelia%20Segura%20Herrero&fontSize=55&animation=fadeIn&fontColor=fff&desc=Desarrolladora%20Web%20Full-Stack&descSize=20&descAlignY=65" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=El%20código%20es%20como%20el%20humor.%20Cuando%20tienes%20que%20explicarlo,%20es%20malo.&author=Cory%20House&theme=tokyonight" alt="Quote" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,20,30&height=220&section=header&text=Noelia%20Segura&fontSize=60&animation=fadeIn&fontAlignY=45)
 <div align="center">
 
 ### **¡Hola! 👋 Soy Noelia, apasionada por la tecnología en Valdemoro, Madrid**
