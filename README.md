@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=13,15,22&height=180&section=header&text=Noelia%20Segura%20Herrero&fontSize=50&animation=fadeIn&fontAlignY=50)
-
+![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,12,19&height=250&section=header&text=Noelia%20Segura&fontSize=70&fontAlignY=40&animation=scaleIn)
 
 
 <div align="center">
