@@ -20,8 +20,6 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full-Stack Developer en for
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noeliaseguraherrero&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noeliaseguraherrero&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
