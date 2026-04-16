@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TuNombre&fontSize=40" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+to+Work;Lifelong+Learner" />
-</p>
-
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,FF0000,FF4500&height=220&section=header&text=Noelia%20Segura%20Herrero&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 <div align="center">
 
