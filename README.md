@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TuNombre&fontSize=40" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+to+Work;Lifelong+Learner" />
+</p>
+
+
+
 <div align="center">
 
 ### **¡Hola! 👋 Soy Noelia, apasionada por la tecnología en Valdemoro, Madrid**
