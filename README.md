@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 👩‍💻 Desarrolladora Web | Valdemoro, Madrid
+### Desarrolladora Web | Valdemoro, Madrid
 
 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer** en formación | Actualmente ampliando conocimientos en **C#** y **Python**. Motivada por crear soluciones eficientes y aprender nuevas tecnologías.
 
@@ -10,7 +10,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 ![Frontend](https://img.shields.io/badge/Frontend-JavaScript%2C%20HTML5%2C%20CSS3%2C%20Bootstrap-ff4d6d?style=for-the-badge&logoColor=white) &nbsp; <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" height="25" />
 
@@ -22,7 +22,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 
 ---
 
-### 📊 Actividad en GitHub
+### Actividad en GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noeliaseguraherrero&show_icons=true&theme=transparent&title_color=ff4d6d&text_color=ffb3c1&icon_color=ff4d6d&hide_border=true&bg_color=0d1117" width="48%" />
@@ -35,7 +35,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 
 ---
 
-### 🌱 Currently
+### Currently
 
 - 📚 Learning: **Ampliando mis bases de Python y profundizando en el desarrollo con C# durante mi periodo de prácticas.**
 - 🤝 Open to collaborate on: **Desarrollo de aplicaciones Full-Stack y proyectos de código abierto que utilicen Java o C#.**
@@ -43,7 +43,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 
 ---
 
-### 📫 Conectemos
+### Conectemos
 
 <div align="center">
 
