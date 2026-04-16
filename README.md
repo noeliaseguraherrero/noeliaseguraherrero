@@ -12,20 +12,11 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full-Stack Developer en for
 
 ### 💻 Tech Stack
 
-**Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark" />
-</p>
-
-**Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,cs&theme=dark" />
-</p>
-
-**Bases de Datos & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,github,linux,visualstudio&theme=dark" />
-</p>
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| **Database & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) |
 ---
 
 ### GitHub Stats
