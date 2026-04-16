@@ -14,6 +14,12 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full-Stack Developer en for
 
 ![Frontend: JavaScript, HTML5, CSS3, Bootstrap.](https://img.shields.io/badge/Frontend%3A%20JavaScript%2C%20HTML5%2C%20CSS3%2C%20Bootstrap.-333?style=for-the-badge&logo=frontend:javascript,html5,css3,bootstrapdot&logoColor=white) ![Backend: Java (Spring Boot), Python, C#.](https://img.shields.io/badge/Backend%3A%20Java%20(Spring%20Boot)%2C%20Python%2C%20C%23.-333?style=for-the-badge&logo=backend:java(springboot),python,csharpdot&logoColor=white) ![Bases de Datos: MySQL, ObjectDB.](https://img.shields.io/badge/Bases%20de%20Datos%3A%20MySQL%2C%20ObjectDB.-333?style=for-the-badge&logo=basesdedatos:mysql,objectdbdot&logoColor=white) ![Herramientas y Entornos: GitHub, Linux, Visual Studio, APIs REST.](https://img.shields.io/badge/Herramientas%20y%20Entornos%3A%20GitHub%2C%20Linux%2C%20Visual%20Studio%2C%20APIs%20REST.-333?style=for-the-badge&logo=herramientasyentornos:github,linux,visualstudio,apisrestdot&logoColor=white)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,py,spring,mysql,html,css,js,bootstrap,vscode,git,linux&perline=6" />
+  </a>
+</p>
+
 ---
 
 ### GitHub Stats
