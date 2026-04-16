@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TuNombre&fontSize=40&animation=fadeIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical" />
 </p>
-
 <div align="center">
 
 ### **¡Hola! 👋 Soy Noelia, apasionada por la tecnología en Valdemoro, Madrid**
