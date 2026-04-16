@@ -22,23 +22,16 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full-Stack Developer en for
 
 ---
 
-### 📊 Perfil Analítico
+### 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noeliaseguraherrero&show_icons=true&theme=transparent&title_color=FF0000&text_color=ffffff&icon_color=FF0000&hide_border=true&bg_color=0d1117" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeliaseguraherrero&layout=compact&theme=transparent&title_color=FF0000&text_color=ffffff&hide_border=true&bg_color=0d1117" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noeliaseguraherrero&show_icons=true&theme=transparent&title_color=ff4d6d&text_color=ffb3c1&icon_color=ff0000&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeliaseguraherrero&layout=compact&theme=transparent&title_color=ff4d6d&text_color=ffb3c1&icon_color=ff0000&hide_border=true&bg_color=0d1117" width="41%" />
 </div>
-
-### 📈 Ritmo de Desarrollo
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noeliaseguraherrero&theme=react-dark&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noeliaseguraherrero&theme=react-dark&bg_color=0d1117&color=ff4d6d&line=ff4d6d&point=ffffff&area=true&hide_border=true" width="90%" />
 </p>
-### 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeliaseguraherrero&layout=compact&theme=vision-friendly-dark&title_color=FF0000&icon_color=FF0000&hide_border=true&bg_color=0d1117" />
-</div>
 ---
 
 ### Currently
