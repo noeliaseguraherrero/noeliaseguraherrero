@@ -12,25 +12,13 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full-Stack Developer en for
 
 ### 💻 Tech Stack
 
-![Frontend](https://img.shields.io/badge/Frontend%3A%20JavaScript%2C%20HTML5%2C%20CSS3%2C%20Bootstrap.-333?style=for-the-badge&logo=frontend) 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark" width="180px" />
-</p>
+![Frontend](https://img.shields.io/badge/Frontend%3A%20JavaScript%2C%20HTML5%2C%20CSS3%2C%20Bootstrap.-333?style=for-the-badge) &nbsp; <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" height="25" />
 
-![Backend](https://img.shields.io/badge/Backend%3A%20Java%20(Spring%20Boot)%2C%20Python%2C%20C%23.-333?style=for-the-badge&logo=backend)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,cs&theme=dark" width="180px" />
-</p>
+![Backend](https://img.shields.io/badge/Backend%3A%20Java%20(Spring%20Boot)%2C%20Python%2C%20C%23.-333?style=for-the-badge) &nbsp; <img src="https://skillicons.dev/icons?i=java,spring,py,cs" height="25" />
 
-![Databases](https://img.shields.io/badge/Bases%20de%20Datos%3A%20MySQL%2C%20ObjectDB.-333?style=for-the-badge&logo=mysql)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45px" />
-</p>
+![Databases](https://img.shields.io/badge/Bases%20de%20Datos%3A%20MySQL%2C%20ObjectDB.-333?style=for-the-badge) &nbsp; <img src="https://skillicons.dev/icons?i=mysql" height="25" />
 
-![Tools](https://img.shields.io/badge/Herramientas%20y%20Entornos%3A%20GitHub%2C%20Linux%2C%20Visual%20Studio%2C%20APIs%20REST.-333?style=for-the-badge&logo=git)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,visualstudio,postman&theme=dark" width="180px" />
-</p>
+![Tools](https://img.shields.io/badge/Herramientas%20y%20Entornos%3A%20GitHub%2C%20Linux%2C%20Visual%20Studio%2C%20APIs%20REST.-333?style=for-the-badge) &nbsp; <img src="https://skillicons.dev/icons?i=github,linux,visualstudio,postman" height="25" />
 
 ---
 
