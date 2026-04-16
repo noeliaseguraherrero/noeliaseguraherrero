@@ -42,6 +42,10 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) | Full-Stack Developer en for
 
 </div>
 
+<p align="right">
+  <img src="https://img.shields.io/badge/Última_Actualización-Abril_2024-FF0000?style=flat-square" />
+</p>
+
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFCCCC,FF0000,2D0B0B&height=100&section=footer)
