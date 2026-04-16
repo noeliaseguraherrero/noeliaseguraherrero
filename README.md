@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,20,30&height=200&section=header&text=Noelia%20Segura&fontSize=60&animation=fadeIn&fontAlignY=45)
-
+![Header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10,15,20,25&height=220&section=header&text=Noelia%20Segura&fontSize=50&animation=scaleIn&fontAlignY=40)
 <div align="center">
 
 ### **¡Hola! 👋 Soy Noelia, apasionada por la tecnología en Valdemoro, Madrid**
