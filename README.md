@@ -24,9 +24,12 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 
 ### Actividad en GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noeliaseguraherrero&theme=dark&background=0d1117&ring=ff4d6d&fire=ff4d6d&currStreakNum=ffb3c1" />
 <div align="center">
-  <img src="https://github-readme-stats-noeliaseguraherrero.vercel.app/api/top-langs/?username=noeliaseguraherrero&layout=compact&title_color=ff4d6d&text_color=ffb3c1&icon_color=ff4d6d&hide_border=true&bg_color=0d1117" width="45%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=noeliaseguraherrero&show_icons=true&theme=transparent&title_color=ff4d6d&text_color=ffb3c1&icon_color=ff4d6d&hide_border=true&bg_color=0d1117" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeliaseguraherrero&layout=compact&theme=transparent&title_color=ff4d6d&text_color=ffb3c1&icon_color=ff4d6d&hide_border=true&bg_color=0d1117" width="41%" />
+
 </div>
 
 <p align="center">
