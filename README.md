@@ -12,7 +12,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 
 ### Tech Stack
 
-![Frontend](https://img.shields.io/badge/Frontend%3A%20JavaScript%2C%20HTML5%2C%20CSS3%2C%20Bootstrap.-333?style=for-the-badge) &nbsp; <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" height="25" />
+![Frontend](https://img.shields.io/badge/Frontend%3A%20Vue3%2C%20TypeScript%2C%20JavaScript%2C%20HTML5%2C%20CSS3%2C%20Bootstrap.-333?style=for-the-badge) &nbsp; <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,bootstrap,vite" height="25" />
 
 ![Backend](https://img.shields.io/badge/Backend%3A%20Java%20(Spring%20Boot)%2C%20Python%2C%20C%23.-333?style=for-the-badge) &nbsp; <img src="https://skillicons.dev/icons?i=java,spring,py,cs" height="25" />
 
