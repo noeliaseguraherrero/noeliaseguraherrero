@@ -4,7 +4,7 @@
 
 ### Desarrolladora Web | Valdemoro, Madrid
 
-Técnica en **Desarrollo de Aplicaciones Web (DAW)** | Estudiante de **Máster en IA y Big Data** | Actualmente ampliando conocimientos en **Inteligencia Artificial**, **Big Data** y **Python**. Motivada por crear soluciones eficientes y aprender nuevas tecnologías.
+Técnica en **Desarrollo de Aplicaciones Web ** | Estudiante de **Máster en IA y Big Data** | Actualmente ampliando conocimientos en **Inteligencia Artificial**, **Big Data** y **Python**. Motivada por crear soluciones eficientes y aprender nuevas tecnologías.
 
 </div>
 
