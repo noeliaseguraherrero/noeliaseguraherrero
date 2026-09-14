@@ -4,7 +4,7 @@
 
 ### Desarrolladora Web | Valdemoro, Madrid
 
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer** en formación | Actualmente ampliando conocimientos en **C#** y **Python**. Motivada por crear soluciones eficientes y aprender nuevas tecnologías.
+Técnica en **Desarrollo de Aplicaciones Web (DAW)** | Estudiante de **Máster en IA y Big Data** | Actualmente ampliando conocimientos en **Inteligencia Artificial**, **Big Data** y **Python**. Motivada por crear soluciones eficientes y aprender nuevas tecnologías.
 
 </div>
 
@@ -22,19 +22,16 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 
 ---
 
-### Actividad en GitHub
+### Proyectos Destacados
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=noeliaseguraherrero&show_icons=true&theme=transparent&title_color=ff4d6d&text_color=ffb3c1&icon_color=ff4d6d&hide_border=true&bg_color=0d1117" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeliaseguraherrero&layout=compact&theme=transparent&title_color=ff4d6d&text_color=ffb3c1&icon_color=ff4d6d&hide_border=true&bg_color=0d1117" width="41%" />
+| Proyecto | Descripción | Tecnologías | Enlace |
+| :--- | :--- | :--- | :--- |
+| **Gestión-Gimnasio-Java** | Breve descripción |  | |
+| **Gestión-Productos-Csharp** | Breve descripción |  | |
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noeliaseguraherrero&theme=react-dark&bg_color=0d1117&color=ff4d6d&line=ff4d6d&point=ffffff&area=true&hide_border=true" width="95%" />
-</p>
 
 ---
 
@@ -43,12 +40,13 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** | **Full-Stack Developer*
 noelia@github:~$ sudo check-currently
 
 [APRENDIENDO]
-> Ampliando bases de Python 
-> Profundizando en C# durante prácticas 
+> Máster en Inteligencia Artificial y Big Data
+> Ampliando bases de Python
+> Modelos de IA y análisis de datos
 
 [COLABORACIONES]
 > Colaborar en apps Full-Stack.
-> Proyectos Open Source (Java/C#).
+> Proyectos Open Source (Java/C#/Python).
 ```
 
 ---
