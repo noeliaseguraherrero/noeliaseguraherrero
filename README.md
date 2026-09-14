@@ -43,10 +43,6 @@ noelia@github:~$ sudo check-currently
 > Máster en Inteligencia Artificial y Big Data
 > Ampliando bases de Python
 > Modelos de IA y análisis de datos
-
-[COLABORACIONES]
-> Colaborar en apps Full-Stack.
-> Proyectos Open Source (Java/C#/Python).
 ```
 
 ---
